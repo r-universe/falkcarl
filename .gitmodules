@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "multilevelmediation"]
+	path = multilevelmediation
+	url = https://github.com/falkcarl/multilevelmediation
 [submodule "pln"]
 	path = pln
 	url = https://github.com/falkcarl/pln
